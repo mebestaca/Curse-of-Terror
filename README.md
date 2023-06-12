@@ -3,3 +3,6 @@ A spell made using Warcraft 3 World Editor. This spell is submitted and approved
 
 ## Description
 Casts a curse to the target area. Affected units will receive damage when they cast an ability.
+
+## Screenshots
+![alt text](https://github.com/mebestaca/Curse-of-Terror/blob/main/Screenshot/Curse%20of%20Terror.jpg?raw=true)
